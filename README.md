@@ -15,7 +15,7 @@ This can be done with Python. It allows you to track your data usage.
 
 - Type the following command and press Enter:
 
-```Bash
+```shell
 git clone https://github.com/y-amila-nirmal/network-usage-counter.git
 ```
 
@@ -23,12 +23,12 @@ git clone https://github.com/y-amila-nirmal/network-usage-counter.git
 
 - Navigate into the cloned directory:
 
-```Bash
+```shell
 cd network-usage-counter
 ```
 - Run the script using Python:
 
-```Bash
+```shell
 python .\main.py
 ```
 ### Note:
